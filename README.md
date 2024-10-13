@@ -7,7 +7,8 @@
 
 coloquei as imagens em uma pasta separada, a logo está em uma pasta chamada "public" porque ela vai ser usada diversas vezes e por várias páginas
 (depois de realizar a alteração do local das imagens, vai ser necessário mudar a forma como elas são refenciadas no html de cada página, se uma arquivo antes  era refenciado por "duda.png" atualmente ele será "./public/duda.png")
-'''
+
+```
 /meu-projeto
     /public
         duda.png
@@ -25,7 +26,7 @@ coloquei as imagens em uma pasta separada, a logo está em uma pasta chamada "pu
         script-global.js
     index.html
     README.md
-'''
+```
 
 2. mudei o nome dos arquivos que compõem o index(a pagina principal da apliacação), assim fica clara a função deles
 
